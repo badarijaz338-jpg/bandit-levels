@@ -3,10 +3,10 @@
 **Goal:** Log in to bandit1 using the password in the 'readme' file.
 
 ### Commands used
-\`\`\`bash
+```bash
 ssh -p 2220 bandit0@bandit.labs.overthewire.org
 cat readme        # -> PASSWORD_REDACTED
-\`\`\`
+```
 
 ### What I learned
 - Basic ssh usage and custom port (-p)
