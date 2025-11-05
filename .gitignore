@@ -1,0 +1,6 @@
+# personal private notes and temp files
+notes_private.md
+*.cast
+*.tmp
+*.log
+*.swp
