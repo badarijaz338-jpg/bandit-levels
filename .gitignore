@@ -4,3 +4,4 @@ notes_private.md
 *.tmp
 *.log
 *.swp
+make_screenshot.sh
