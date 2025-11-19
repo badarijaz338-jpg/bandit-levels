@@ -38,6 +38,7 @@ bandit-levels/
 └── make_screenshot.sh # The automation script
 
 
+```
 
-# Disclaimer
+## ⚠️ Disclaimer
 No Passwords Included. In accordance with OverTheWire community rules, this repository contains methodologies and command logs, but actual passwords/flags for the levels are not explicitly listed in text format to preserve the challenge for others.
