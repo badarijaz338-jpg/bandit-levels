@@ -8,7 +8,7 @@
 
 ```bash
 ls -la
-cat "--spaces in this filename--"
+cat ./ "--spaces in this filename--"
 # -> PASSWORD_REDACTED
 
 
